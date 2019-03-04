@@ -1,10 +1,21 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# Laravel auth test
 
-## About Laravel
+## Refrensi
+> https://daengweb.id/part-5-membuat-aplikasi-pos-point-of-sales-laravel-56-role-permission-users 
 
-### Install Package
+---
 
-    composer require spatie/laravel-permission
+## Langkah-langkah authentifikasi
 
-### File Package
-[https://github.com/spatie/laravel-permission](https://github.com/spatie/laravel-permission)
+1. install package 
+   ```
+   composer require spatie/laravel-permission
+   ```
+2.  ax
+   ```
+    php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider" --tag="migrations"
+   ```
+3.  scsc
+   ```
+    
+   ```
