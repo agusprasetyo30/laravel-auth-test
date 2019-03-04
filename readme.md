@@ -15,7 +15,7 @@
    ```
     php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider" --tag="migrations"
    ```
-3.  scsc
+3.  sc
    ```
     
    ```
